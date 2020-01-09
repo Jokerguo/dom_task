@@ -1,3 +1,4 @@
+//根据题目写的代码  不够细节
 window.dom = {
     find(selector){
        return document.querySelectorAll(selector)
